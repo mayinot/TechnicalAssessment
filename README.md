@@ -14,8 +14,7 @@ Notes:
 - All data should be stored in a database.
 - The application should demonstrate MVC pattern.
 
-Bonus Question:
- The application should be able to support at least 2 languages (e.g. English, Mandarin).
+Bonus Question: The application should be able to support at least 2 languages (e.g. English, Mandarin).
 
 ### Video Demo 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/T08ByauUNMo?si=V_R1IQxAY-N9BLsw)https://youtu.be/T08ByauUNMo?si=V_R1IQxAY-N9BLsw)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/T08ByauUNMo?si=p2NEVUgIeXy4w4RY])
