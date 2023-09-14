@@ -17,4 +17,4 @@ Notes:
 Bonus Question: The application should be able to support at least 2 languages (e.g. English, Mandarin).
 
 ### Video Demo 
-[![Watch the video](https://youtu.be/T08ByauUNMo?si=p2NEVUgIeXy4w4RY)]([https://youtu.be/T08ByauUNMo?si=p2NEVUgIeXy4w4RY])
+https://youtu.be/T08ByauUNMo?si=p2NEVUgIeXy4w4RY
