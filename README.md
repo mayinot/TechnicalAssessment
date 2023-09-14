@@ -17,4 +17,5 @@ Notes:
 Bonus Question: The application should be able to support at least 2 languages (e.g. English, Mandarin).
 
 ### Video Demo 
-https://youtu.be/T08ByauUNMo?si=p2NEVUgIeXy4w4RY
+https://github.com/mayinot/TechnicalAssessment/assets/31657679/256b2d46-aec1-43de-ac47-78543522ef87
+
